@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  content: "";
+  background-color: rgba(0, 0, 0, 0.842);
+  z-index: -1;
+}
+
+.services-cover {
+  background: linear-gradient(rgba(0, 0, 0, 0.788), rgba(0, 0, 0, 0.781)),
+    url(../public/img/bg2.jpg) fixed center center;
+  background-size: cover;
+}
