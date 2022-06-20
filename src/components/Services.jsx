@@ -15,7 +15,7 @@ function Services() {
             ducimus illum deleniti sit, natus exercitationem alias vitae at sed
             consequuntur deserunt quae accusantium voluptatum minima?
           </p>
-          <button className="text-[1.2rem] font-bold border-2 py-1 px-5 rounded-[5px]">
+          <button className="text-[1.2rem] font-bold border-2 py-1 px-5 rounded-[5px] hover:border-[orange] hover:bg-[orange] hover:text-black duration-500">
             Call To Travel
           </button>
         </div>
@@ -40,7 +40,7 @@ function Services() {
             <h1 className="text-2xl font-semibold">Excellent tour plan</h1>
           </div>
           <div className="w-[100%] h-[12rem] sm:h-[15rem] bg-white border-[2px] flex flex-col items-center justify-center space-y-10 border-[#dd8f1a7e] ">
-            <GiCruiser size={50} className="text-[orange]" />
+            <GiCruiser size={60} className="text-[orange]" />
             <h1 className="text-2xl font-semibold">Cruise </h1>
           </div>
           <div className="w-[100%] h-[12rem] sm:h-[15rem] bg-white border-[2px] flex flex-col items-center justify-center space-y-10 border-[#dd8f1a7e] ">
