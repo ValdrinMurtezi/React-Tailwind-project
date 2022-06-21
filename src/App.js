@@ -2,6 +2,7 @@ import About from "./components/About";
 import Hero from "./components/Hero";
 import Services from "./components/Services";
 import Places from "./components/Places";
+import Clients from "./components/Clients";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <About />
       <Services />
       <Places />
+      <Clients />
     </div>
   );
 }

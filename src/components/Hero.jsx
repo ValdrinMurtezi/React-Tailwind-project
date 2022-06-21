@@ -23,7 +23,7 @@ function Hero() {
       >
         {" "}
         <div className="flex items-center justify-between h-[4rem] w-[90%] sm:w-[84%] mt-[1rem]">
-          <h1 className="text-4xl font-[600] text-white">
+          <h1 className="text-4xl font-font1 font-semibold text-white">
             Traveler<span className="text-[orange] ">.</span>
           </h1>
           <ul
@@ -66,7 +66,7 @@ function Hero() {
         </div>
         <div className="flex items-center pt-20 flex-col w-[90%] sm:w-[84%] ">
           <div className="mx-auto w-[90%] sm:w-[28rem] md:w-[34rem] my-[50px] ">
-            <p className="text-4xl md:text-5xl lg:text-[3.2rem] font-bold text-white z-[2] text-center">
+            <p className="text-4xl md:text-5xl lg:text-[3.2rem] font-font1 font-[600] text-white z-[2] text-center">
               Travel is the only thing you buy that makes you richer{" "}
               <span className="text-[orange] -ml-3">.</span>
             </p>

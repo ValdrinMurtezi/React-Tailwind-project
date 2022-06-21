@@ -16,6 +16,10 @@ module.exports = {
         shadow: "0px 0px 25px rgba(0, 0, 0, 0.15)",
         shadow1: "0px 0px 30px rgba(0,0,0, 0.40)",
       },
+      fontFamily: {
+        font1: "Montserrat",
+        font2: "Lato",
+      },
     },
   },
   plugins: [],
