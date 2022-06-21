@@ -7,7 +7,7 @@ export default function Places() {
         <div className="w-full py-10 relative">
           <p className="text-xl font-semibold text-gray-500">DESTINATIONS</p>
           <div className="w-[7rem] h-[2px] bg-[orange] absolute left-[9rem] top-[3.3rem]"></div>
-          <h1 className="text-4xl font-bold">SOME OF DESTINATIONS</h1>
+          <h1 className="text-4xl font-bold">SOME OF OUR DESTINATIONS</h1>
         </div>
         <div
           className="w-full grid grid-cols-1 gap-2 md:grid-cols-2 lg:grid-cols-3 items-center self-center content-center
