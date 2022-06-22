@@ -6,8 +6,8 @@ import { AiFillSafetyCertificate } from "react-icons/ai";
 
 function Services() {
   return (
-    <div className="w-full min-h-[140vh]  flex flex-col items-center justify-center">
-      <div className="services-cover w-full flex items-center justify-center  bg-white">
+    <div className="w-full min-h-[140vh] flex flex-col items-center justify-center">
+      <div className="services-cover w-full flex absolute items-center justify-center py-[60px] bg-white">
         <div className="w-[90%] space-y-6 sm:w-[84%] text-center font-font2  text-white">
           <h2 className="text-3xl font-bold">Call To Travel</h2>
           <p className="text-lg font-[400]">
