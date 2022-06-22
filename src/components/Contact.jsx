@@ -22,7 +22,7 @@ function Contact() {
         {/* </div> */}
       </div>
       <div className="w-[90%] sm:w-[84%] flex flex-col lg:flex-row space-y-4 lg:space-y-0 justify-between py-8">
-        <div className="w-[60vh] flex flex-col space-y-6 ">
+        <div className="w-full md:w-[60vh] flex flex-col space-y-6 ">
           <div className="flex items-center space-x-2">
             <GoLocation className="text-[3rem] p-3 bg-[#f8a917e3] rounded-lg" />
             <div>

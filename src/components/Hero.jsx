@@ -19,7 +19,7 @@ function Hero() {
     <>
       <div
         className="header z-[1] flex-col relative	bg-fixed bg-pack-train bg-no-repeat bg-cover
-       w-full min-h-[100vh] flex items-center justify-center"
+       w-full  flex items-center justify-center"
       >
         {" "}
         <div className="flex items-center justify-between h-[4rem] w-[90%] sm:w-[84%] mt-[1rem]">
