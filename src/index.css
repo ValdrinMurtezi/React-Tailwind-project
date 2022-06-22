@@ -17,12 +17,12 @@
 }
 
 .services-cover {
+  position: relative;
   background: linear-gradient(rgba(0, 0, 0, 0.788), rgba(0, 0, 0, 0.781)),
-    url(../public/img/bg2.jpg) fixed;
-  background-size: cover;
-  width: 100%;
-  background-repeat: no-repeat;
+    url(../public/img/bg2.jpg) center center fixed;
   background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .clients-cover {
